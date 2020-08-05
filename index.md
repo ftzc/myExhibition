@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/ftzc/myExhibition/edit/gh-
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 专业MVC网站开发，企业建站、ERP、CRM系统开发及ESB数据总线集成业务。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
