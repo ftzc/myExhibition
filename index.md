@@ -1,12 +1,9 @@
-## 欢迎光临程序猿的个人主页
-
-You can use the [editor on GitHub](https://github.com/ftzc/myExhibition/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### 专业MVC网站开发，企业建站、ERP、CRM系统开发及ESB数据总线集成业务。
+## 欢迎光临田丰的个人主页
 
 
+### 专业定制企业MVC网站开发，企业建站、ERP、CRM系统开发及ESB数据总线集成业务。
+
+项目经验丰富，其中涵盖了医疗、制造、采矿、商业、房地产等行业深耕多年ERP与SHR解决方案。为客户的管理提升做出了卓越贡献，从企业订单管理、采购管理、到销售管理，财务帐务结算与数据分析，为经营者的决策提供的高质量的数据支撑。
 
 ```markdown
 Syntax highlighted code block
