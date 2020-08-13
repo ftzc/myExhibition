@@ -5,25 +5,8 @@
 
 项目经验丰富，其中涵盖了医疗、制造、采矿、商业、房地产等行业深耕多年ERP与SHR解决方案。为客户的管理提升做出了卓越贡献，从企业订单管理、采购管理、到销售管理，财务帐务结算与数据分析，为经营者的决策提供的高质量的数据支撑。
 
-```markdown
-Syntax highlighted code block
 
-# 网站建设
-## 软件开发
-### 财经咨询 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](https://github.com/ftzc/myExhibition/blob/gh-pages/img/bigdata.jpg)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Image text](https://github.com/ftzc/myExhibition/blob/gh-pages/img/bigdata.jpg)
 
 ### bu
 
